@@ -5,4 +5,5 @@ Mock-Up
 The following animation demonstrates the application:
 #
 ![](https://user-images.githubusercontent.com/72354925/106096323-f39a5380-60fa-11eb-80c6-e3d9dbade965.png)
-
+#
+![alt text](http://url/to/img.png)
