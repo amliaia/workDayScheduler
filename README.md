@@ -4,5 +4,5 @@ a simple calendar application that allows a user to save events for each hour of
 Mock-Up
 The following animation demonstrates the application:
 #
-![](C:\Users\ameli\Pictures\Screenshots\Screenshot (164).png)
+![](https://user-images.githubusercontent.com/72354925/106096323-f39a5380-60fa-11eb-80c6-e3d9dbade965.png)
 
